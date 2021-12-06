@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "751993004955",
+    "project_id": "najotta-limapp",
+    "storage_bucket": "najotta-limapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751993004955:android:7b3ca95c6934ee7d84b73e",
+        "android_client_info": {
+          "package_name": "com.example.najot_talim_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751993004955-vfsgfrm78824vqscmb2m1o7qkcrngfdt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.najot_talim_app",
+            "certificate_hash": "ee9aeec4390af8b7ad24320f057c645e828d517d"
+          }
+        },
+        {
+          "client_id": "751993004955-1j57638721msvrn2bs8ni32senfa181c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-20PxZMVnmadUezGG1fHBgL3q9x9ol-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751993004955-1j57638721msvrn2bs8ni32senfa181c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
