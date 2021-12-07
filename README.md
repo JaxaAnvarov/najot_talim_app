@@ -1,8 +1,11 @@
 # najot_talim_app
 
-A new Flutter project.
+FLutterdagi navbatdagi app.
 
-## Getting Started
+## Bugalki app Najot Ta'lim application.
+Bu app o'qishim haqida bo'lib , o'qishimdagi kurslar haqidagi ma'lumotlar bilan tanishib chiqishingiz mumkun.
+
+## Application sahifalarida
 
 This project is a starting point for a Flutter application.
 
