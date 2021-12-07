@@ -8,6 +8,7 @@ Bu app o'qishim haqida bo'lib , o'qishimdagi kurslar haqidagi ma'lumotlar bilan 
 ## Applicationda sahifalari rasmlarda: 👇.
 
 ### Splash Screen : 
+<a href="https://ibb.co/xYSswjq"><img src="https://i.ibb.co/ypnRKyF/Screenshot-from-2021-12-07-14-08-55.png" alt="Screenshot-from-2021-12-07-14-08-55" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>выложить скриншот сайт</a><br />
 
 
 This project is a starting point for a Flutter application.
