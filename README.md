@@ -2,10 +2,13 @@
 
 FLutterdagi navbatdagi app.
 
-## Bugalki app Najot Ta'lim application.
+## Navbatdagiapp. Najot Ta'lim application.
 Bu app o'qishim haqida bo'lib , o'qishimdagi kurslar haqidagi ma'lumotlar bilan tanishib chiqishingiz mumkun.
 
-## Application sahifalarida
+## Applicationda sahifalari rasmlarda: 👇.
+
+### Splash Screen : 
+
 
 This project is a starting point for a Flutter application.
 
