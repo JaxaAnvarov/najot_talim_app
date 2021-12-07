@@ -13,14 +13,17 @@ Bu sahifa 'Backend'dan ma'lumot kelguncha korinib turadi.
 
 <a href="https://ibb.co/xYSswjq"><img src="https://i.ibb.co/ypnRKyF/Screenshot-from-2021-12-07-14-08-55.png" alt="Screenshot-from-2021-12-07-14-08-55" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>выложить скриншот сайт</a><br />
 
+### Home Page :
+Home Page esa o'quv markazida qanday kurslar bor ekanligi haqida qisqacha ma'lumot berib otiladi .
 
-This project is a starting point for a Flutter application.
+<a href="https://ibb.co/3c1SKgY"><img src="https://i.ibb.co/KW6VnTz/Screenshot-from-2021-12-07-14-08-15.png" alt="Screenshot-from-2021-12-07-14-08-15" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>выложить скриншот сайт</a><br />
 
-A few resources to get you started if this is your first Flutter project:
+### Information Page :
+Bu safifada esa qaysi kurs o'rqali kirilgan bo'lsa usha kurs haqida video darsliklar ishga tushadi. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<a href="https://ibb.co/cDZjvtq"><img src="https://i.ibb.co/RzsqSP8/Screenshot-from-2021-12-07-14-08-24.png" alt="Screenshot-from-2021-12-07-14-08-24" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>выложить скриншот сайт</a><br />
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Video Page : 
+Qaysi kursni videoni tanlab kirilgan bo'lsa , usha kurs yoki yonalish haqida video ishga tushadi.
+
+<a href="https://ibb.co/8jP3dx6"><img src="https://i.ibb.co/VvMyQC2/Screenshot-from-2021-12-07-14-08-45.png" alt="Screenshot-from-2021-12-07-14-08-45" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>выложить скриншот сайт</a><br />
